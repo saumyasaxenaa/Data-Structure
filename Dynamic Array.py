@@ -1,79 +1,43 @@
-import ctypes
-
-class DynamicArray:
-
+class Array:
     def __init__(self):
-        self.n = 0
-        self.capacity = 1
-        self.A = self.make_array(self.capacity)
+        self.length = 0
+        self.data = {}
 
-    def __len__(self):
-        return self.n
+    def __str__(self):
+        return str(self.__dict__)
 
-    def __getitem__(self, item):
-        if not 0 <= item < self.n:
-            return IndexError('item is out of bounds !')
-        return self.A[item]
+    def get(self, index):
+        return self.data[index]
 
-    def append(self, ele):
-        if self.n == self.capacity:
-            self._resize(2 * self.capacity)
+    def push(self, item):
+        self.data[self.length] = item
+        self.length += 1
+        return self.length
 
-        self.A[self.n] = ele
-        self.n += 1
+    def pop(self):
+        lastitem = self.data[self.length-1]
+        del self.data[self.length-1]
+        self.length -= 1
+        return lastitem
 
-    def insertAt(self, item, index):
+    def delete(self, index):
+        deleteditem = self.data[index]
+        for i in range(index, self.length-1):
+            self.data[i] = self.data[i+1] # shifting the items to the left by one
+        del self.data[self.length-1]
+        self.length -= 1
+        return deleteditem
 
-        if index < 0 or index > self.n:
-            print('Enter appropriate index')
-            return
-        if self.n == self.capacity:
-            self._resize(2 * self.capacity)
 
-        for i in range(self.n-1, index-1, -1):
-            self.A[i+1] = self.A[i]
 
-        self.A[index] = item
-        self.n += 1
-
-    def delete(self):
-        if self.n == 0:
-            print('Empty!')
-            return
-        self.A[self.n-1] = 0
-        self.n -= 1
-
-    def removeAt(self, index):
-        if self.n == 0:
-            print('Empty!')
-            return
-        if index < 0 or index >= self.n:
-            return IndexError('out of bound')
-        if index == self.n - 1:
-            self.A[index] = 0
-            self.n -= 1
-            return
-
-        for i in range(index, self.n-1):
-            self.A[i] = self.A[i+1]
-
-        self.A[self.n-1] = 0
-        self.n -= 1
-
-    def _resize(self, new_cap):
-        B = self.make_array(new_cap)
-        for k in range(self.n):
-            B[k] = self.A[k]
-
-        self.A = B
-        self.capacity = new_cap
-
-    def make_array(self, new_cap):
-        return (new_cap * ctypes.py_object)()
-
-arr = DynamicArray()
-arr.append(1)
-print(len(arr))
-arr.append(2)
-print(len(arr))
-print(arr[0])
+arr = Array()
+arr.push('hi')
+arr.push('hello')
+arr.push('you')
+arr.push('are')
+arr.push('nice')
+print(arr)
+arr.delete(1)
+print(arr)
+arr.delete(2)
+print(arr)
