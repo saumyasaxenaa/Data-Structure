@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c152236c-2231-451a-92c3-4cc4debb4f8d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Hash Tables/First Recurring Character.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hash Tables/First Recurring Character.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cs1kutJzTDWJK3BqGOWSHkfwva" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Linked List" />
+      <recent name="$PROJECT_DIR$/Arrays" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.First Recurring Character">
+    <configuration name="Dynamic Array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/Dynamic Array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="First Recurring Character" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hash Tables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hash Tables/First Recurring Character.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Implementation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hash Tables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hash Tables/Implementation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Merge Sorted Array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/Merge Sorted Array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReverseString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/ReverseString.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.First Recurring Character" />
+        <item itemvalue="Python.ReverseString" />
+        <item itemvalue="Python.Dynamic Array" />
+        <item itemvalue="Python.Implementation" />
+        <item itemvalue="Python.Merge Sorted Array" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c152236c-2231-451a-92c3-4cc4debb4f8d" name="Default Changelist" comment="" />
+      <created>1591302632803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591302632803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="829" height="161" key="GridCell.Tab.0.bottom" timestamp="1593300777963">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="809" height="166" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1593299863005" />
+    <state width="829" height="161" key="GridCell.Tab.0.bottom/0.23.1680.943@0.23.1680.943" timestamp="1593300777963" />
+    <state width="1659" height="141" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1592023316002" />
+    <state width="1659" height="141" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.944@0.23.1680.944" timestamp="1591988965244" />
+    <state width="1659" height="141" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.947@0.23.1680.947" timestamp="1591986588154" />
+    <state width="829" height="161" key="GridCell.Tab.0.center" timestamp="1593300777962">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="809" height="166" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1593299863004" />
+    <state width="829" height="161" key="GridCell.Tab.0.center/0.23.1680.943@0.23.1680.943" timestamp="1593300777962" />
+    <state width="1659" height="141" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1592023316001" />
+    <state width="1659" height="141" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.944@0.23.1680.944" timestamp="1591988965243" />
+    <state width="1659" height="141" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.947@0.23.1680.947" timestamp="1591986588153" />
+    <state width="829" height="161" key="GridCell.Tab.0.left" timestamp="1593300777961">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="809" height="166" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1593299863003" />
+    <state width="829" height="161" key="GridCell.Tab.0.left/0.23.1680.943@0.23.1680.943" timestamp="1593300777961" />
+    <state width="1659" height="141" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1592023316001" />
+    <state width="1659" height="141" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.944@0.23.1680.944" timestamp="1591988965242" />
+    <state width="1659" height="141" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.947@0.23.1680.947" timestamp="1591986588152" />
+    <state width="829" height="161" key="GridCell.Tab.0.right" timestamp="1593300777962">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="809" height="166" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1593299863004" />
+    <state width="829" height="161" key="GridCell.Tab.0.right/0.23.1680.943@0.23.1680.943" timestamp="1593300777962" />
+    <state width="1659" height="141" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1592023316002" />
+    <state width="1659" height="141" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.944@0.23.1680.944" timestamp="1591988965243" />
+    <state width="1659" height="141" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.947@0.23.1680.947" timestamp="1591986588154" />
+    <state x="930" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1593296039213">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="930" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1593296039213" />
+  </component>
+</project>

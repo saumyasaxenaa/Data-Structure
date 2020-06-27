@@ -8,5 +8,5 @@ def FirstRecurringChar(arr):
         else:
             count[num] = 1
     return None
-f = FirstRecurringChar([2,3,4,5,6,7,2])
+f = FirstRecurringChar([2,5,3,4,5,6,7,2])
 print(f'The first recurring character is: {f}')
