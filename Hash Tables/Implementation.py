@@ -31,9 +31,9 @@ class HashTable():
         return key_arr
 
 h = HashTable()
-h.set('grapes',1000)
-h.set('oranges',10)
-h.set('apples',200)
+h.set('grapes',10)
+h.set('oranges',1)
+h.set('apples',2)
 h.set('bananas',300)
 x=h.get('grapes')
 key_arr=h.keys()
