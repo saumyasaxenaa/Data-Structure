@@ -28,8 +28,6 @@ class LinkedList():
 
     def insert(self, index, value):
         newNode = Node(value)
-        i = 0
-        currNode = self.head
         if index >= self.length:
             return self.append(value)
         leader = self.traverseToIndex(index-1)
