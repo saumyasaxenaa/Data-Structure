@@ -50,12 +50,25 @@ class LinkedList():
         leader.next = unwantedNode.next
         self.length -= 1
 
-
+    def reverse(self):
+        if self.length == 1:
+            return self.head
+        first = self.head
+        self.tail = self.head
+        second = first.next
+        while second:
+            temp = second.next
+            second.next = first
+            first = second
+            second = temp
+        self.head.next = None
+        self.head = first
+        return self.printList()
 
     def printList(self):
         currNode = self.head
         while currNode != None:
-            print(currNode.data, end='-->')
+            print(currNode.data, end=' --> ')
             currNode = currNode.next
 
 mylinkedlist = LinkedList()
@@ -66,3 +79,4 @@ mylinkedlist.prepend(1)
 mylinkedlist.insert(2,99)
 mylinkedlist.remove(1)
 print(mylinkedlist.printList())
+print(mylinkedlist.reverse())
