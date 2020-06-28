@@ -38,6 +38,7 @@ class DoublyLinkedList():
         newNode.prev = leader
         newNode.next = follower
         follower.prev = newNode
+        self.length += 1
 
     def traverseToIndex(self, index):
         counter = 0
