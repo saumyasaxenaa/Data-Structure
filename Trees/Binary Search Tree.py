@@ -35,16 +35,17 @@ class BinarySearchTree():
                         currNode = currNode.right
 
     def lookup(self, value):
+        if self.root == None:
+            return None
         currNode = self.root
-        while True:
-            if currNode == None:
-                return False
-            if currNode.value == value:
-                return True
-            elif value < currNode.value:
+        while currNode:
+            if value < currNode.value:
                 currNode = currNode.left
-            else:
+            elif value > currNode.value:
                 currNode = currNode.right
+            elif currNode.value == value:
+                return True
+        return False
 
     def printTree(self):
         if self.root:
