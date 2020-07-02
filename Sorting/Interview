@@ -1,24 +1,24 @@
-//#1 - Sort 10 schools around your house by distance:
+1 - Sort 10 schools around your house by distance:
        INSERTION SORT
 
-//#2 - eBay sorts listings by the current Bid amount:
+2 - eBay sorts listings by the current Bid amount:
        RADIX OR COUNTING SORT
 
-//#3 - Sport scores on ESPN:
+3 - Sport scores on ESPN:
        QUICK SORT
 
-//#4 - Massive database (can't fit all into memory) needs to sort through past year's user data:
+4 - Massive database (can't fit all into memory) needs to sort through past year's user data:
        MERGE SORT
 
-//#5 - Almost sorted Udemy review data needs to update and add 2 new reviews:
+5 - Almost sorted Udemy review data needs to update and add 2 new reviews:
        INSERTION SORT
 
-//#6 - Temperature Records for the past 50 years in Canada:
+6 - Temperature Records for the past 50 years in Canada:
        RADIX OR COUNTING SORT
        QUICK SORT
 
-//#7 - Large user name database needs to be sorted. Data is very random:
+7 - Large user name database needs to be sorted. Data is very random:
        QUICK SORT
 
-//#8 - You want to teach sorting for the first time
+8 - You want to teach sorting for the first time
        BUBBLE SORT, SELECTION SORT
