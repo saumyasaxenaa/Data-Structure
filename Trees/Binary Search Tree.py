@@ -25,14 +25,12 @@ class BinarySearchTree():
                     if currNode.left == None:
                         currNode.left = newNode
                         return
-                    else:
-                        currNode = currNode.left
+                    currNode = currNode.left
                 elif value >= currNode.value:
                     if currNode.right == None:
                         currNode.right = newNode
                         return
-                    else:
-                        currNode = currNode.right
+                    currNode = currNode.right
 
     def lookup(self, value):
         if self.root == None:
@@ -66,5 +64,4 @@ tree.insert(20)
 tree.insert(170)
 tree.insert(15)
 tree.insert(1)
-tree.printTree()
-print(tree.lookup(1))
+print(tree.printTree())
